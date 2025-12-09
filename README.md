@@ -1,6 +1,6 @@
 # MWNet
 Official code of **Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank**.
-
+Paper: [MedIA](https://www.sciencedirect.com/science/article/pii/S1361841525004505)
 Contributors: [Chenxiao Zhang](https://github.com/XiAooZ), Runshi Zhang
 
 # Network Architecture
