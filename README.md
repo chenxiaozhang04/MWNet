@@ -3,7 +3,7 @@ Official code of **Tracking spatial temporal details in ultrasound long video vi
 
 Paper: [MedIA](https://www.sciencedirect.com/science/article/pii/S1361841525004505)
 
-Contributors: [Chenxiao Zhang](https://github.com/XiAooZ), Runshi Zhang
+Contributors: [Chenxiao Zhang](https://chenxiaozhang04.github.io), Runshi Zhang
 
 # Network Architecture
 ## MWNet:
